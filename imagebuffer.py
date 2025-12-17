@@ -3,6 +3,7 @@ import busio
 import adafruit_ssd1306
 import adafruit_framebuf
 
+#Dont forget to change this to yours screen specification
 DISPLAY_WIDTH = 0
 DISPLAY_HEIGHT = 0
 
